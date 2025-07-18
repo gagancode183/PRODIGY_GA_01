@@ -30,5 +30,5 @@ This project fine-tunes OpenAI's GPT-2 model on a custom text dataset using the 
 
 ## 📌 Completed as part of:
 **Prodigy InfoTech Generative AI Internship**  
-📅 June–July 2025  
+📅July-August 2025  
 📍 #ProdigyInfoTech #GenerativeAI #GPT2 #AIInternship #TextGeneration
